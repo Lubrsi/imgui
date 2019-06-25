@@ -25,6 +25,7 @@ project "ImGui"
         systemversion "latest"
     
     filter "system:linux"
+        pic "on"
         systemversion "latest"
     
     filter "configurations:Debug"
