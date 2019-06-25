@@ -1,3 +1,7 @@
 [Bb]in/
 [Bb]uild/
+*.sln
 *.vcxproj
+*.filters
+*.user
+Makefile
